@@ -1,2 +1,2 @@
-# bot-code
-All the bot's code we compose will be located here.
+# Main bot code
+When we write the code for the bot, it will all be located here.
